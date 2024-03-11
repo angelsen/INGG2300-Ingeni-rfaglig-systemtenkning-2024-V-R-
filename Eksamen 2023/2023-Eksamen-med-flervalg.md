@@ -106,6 +106,18 @@ Hvilke av følgende setninger beskriver best det som menes med faktoren "A" i de
 
 Maks poeng: 2
 
+---
+
+I = P * A * T
+
+hvor:
+- I står for miljøpåvirkning (Impact),
+- P står for befolkningsstørrelse (Population),
+- A står for velstand eller forbruk per person (Affluence), og
+- T står for teknologi eller miljøpåvirkning per forbruksenhet (Technology).
+
+---
+
 # 13
 
 Oppgaven gjelder materialstrømsanalyse. Legg til grunn følgende forenklede materialbalanse med to prosesser; produksjon og bruk:
@@ -122,7 +134,7 @@ Hva vil bli verdien for systemets import $\left(X_{0,1}\right)$ om gjenvinningsg
 
 - Systemimporten øker tilsvarende og blir 50
 
-- Systemimporten reduseres tilsvarende og blir 30
+- **Systemimporten reduseres tilsvarende og blir 30**
 
 - Systemimporten endres ikke
 
@@ -142,7 +154,7 @@ Hva betyr det?
 
 - selektivitetskoeffisienten til kobber fra fraksjonen C er $75 \%$
 
-- allokeringskoeffisienten til kobber fra fraksjonen C er $75 \%$
+- **allokeringskoeffisienten til kobber fra fraksjonen C er $75 \%$**
 
 - materialeffektiviteten til anlegget er $75 \%$
 
@@ -162,7 +174,7 @@ Hva er fotavtrykksmetoder?
 
 - Måte å måle lengden på fotavtrykk.
 
-- Forenklede livsløpsbaserte metoder for beregning av bestemte miljøpåvirkninger.
+- **Forenklede livsløpsbaserte metoder for beregning av bestemte miljøpåvirkninger.**
 
 # 16
 
@@ -176,7 +188,7 @@ Hvilken av følgende er en mulig funksjonell enhet for personbiltransport?
 
 - drivstoff-effektivitet (fuel efficiency)
 
-- person-km
+- **person-km**
 
 Maks poeng: 2
 
@@ -192,13 +204,19 @@ Hvilke fire mål er det som representerer bunnen i en slik kake?
 
 - no poverty, zero hunger, good health and well-being, quality education
 
-- climate action, life on land, life below water, clean water and sanitation
+- **climate action, life on land, life below water, clean water and sanitation**
 
 - affordable and clean energy, industry, innovation, and infrastructure, partnership for the goals
 
 - gender equality, decent work and economic growth, reduced inequality, peace justice and strong institutions
 
 Maks poeng: 2
+
+---
+
+![](https://www.stockholmresilience.org/images/18.36c25848153d54bdba33ec9b/1465905797608/sdgs-food-azote.jpg)
+
+---
 
 # 18 
 
