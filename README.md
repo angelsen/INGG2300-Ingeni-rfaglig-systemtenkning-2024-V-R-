@@ -1,1 +1,1 @@
-# INGG2300-Ingeni-rfaglig-systemtenkning-2024-V-R-
+# INGG2300 Ingeniørfaglig systemtenkning (2024 VÅR)
