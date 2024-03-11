@@ -230,14 +230,13 @@ Hvilken påstand er riktig for dette systemet?
 
 **Velg ett alternativ:**
 
-$$
-\begin{aligned}
-& X_{0,1}=X_{3,0}+X_{2,0} \\
-& X_{0,1}+X_{3,0}=X_{2,0} \\
-& X_{0,1}+X_{3,0}+X_{2,0}=0 \\
-& X_{0,1}=2 X_{2,0}
-\end{aligned}
-$$
+ -[ ] $ X_{0,1}=X_{3,0}+X_{2,0} $
+
+ -[x] $ X_{0,1}+X_{3,0}=X_{2,0} $
+
+ -[ ] $ X_{0,1}+X_{3,0}+X_{2,0}=0 $
+
+ -[ ] $ X_{0,1}=2 X_{2,0} $
 
 # 19 
 Enova har i mange år arbeidet for økt energieffektivisering i boligmassen i Norge, gjennom både informasjonskampanjer og støtte til energieffektiviserende tiltak. Tiltakene man har kunnet søke støtte til er innkjøp av varmevekslere og utbedring av isolasjon i vegger og tak.
@@ -248,13 +247,13 @@ Hva er en benevnelse som brukes om slike situasjoner?
 
 **Velg ett alternativ:**
 
-Dominoeffekt
+- Dominoeffekt
 
-Jevons paradoks
+- Jevons paradoks
 
-Systemutvidelse
+- Systemutvidelse
 
-Problemskifte (problem shifting)
+- **Problemskifte (problem shifting)**
 
 Maks poeng: 2
 
@@ -268,7 +267,7 @@ Når er allokering relevant i en LCA?
 
 - Når vi har flere systemer med samme produkt.
 
-- Når en prosess har flere produkt.
+- **Når en prosess har flere produkt.** *En kun kan ha flere produkt, en ku kan ha melk og kjøtt, se på forbruk kun melk, må LCA allokeres*
 
 - Når en prosess har kun ett produkt.
 
@@ -292,7 +291,7 @@ Hvilken påstand stemmer for resultatet av dette?
 
 - $0,25 \mathrm{~kg}$ CO2 per kg produkt A
 
-- 0,75 kg CO2 per kg produkt A
+- **0,75 kg CO2 per kg produkt A**
 
 - $75 \mathrm{~kg} \mathrm{CO} 2$ per kg produkt A
 
@@ -312,7 +311,7 @@ Hvilken påstand stemmer om dette anlegget?
 
 - separasjonskoeffisienten (transfer coefficient) for kobber er $25 \%$
 
-- allokeringskoeffisienten (allocation coefficient) for kobber er $75 \%$
+- **allokeringskoeffisienten (allocation coefficient) for kobber er $75 \%$**
 
 - separasjonskoeffisienten (transfer coefficient) for kobber er $75 \%$
 
