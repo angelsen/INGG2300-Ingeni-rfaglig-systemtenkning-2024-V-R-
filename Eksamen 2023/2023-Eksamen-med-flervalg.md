@@ -88,6 +88,83 @@ Hva kalles en slik matrise?
 
 Maks poeng: 2
 
+---
+
+Denne matrisen kalles en **LCA-matrise (Life Cycle Assessment matrix)**. LCA er en metode brukt for å vurdere miljøpåvirkningen knyttet til alle faser av en produkts livssyklus fra råvareutvinning gjennom materialproduksjon, bruk, slutthåndtering, resirkulering og sluttdisponering.
+
+### Eksempler på de foreslåtte alternativene:
+
+1. **Prosessflytskjema (Process Flow Diagram, PFD)**:
+   - Et prosessflytskjema er en type diagram som illustrerer de store utstyrsenheter og de systematiske strømningene av materialer i en prosess. 
+   - Eksempel: I en fabrikk som produserer maling, kan et PFD vise hvordan råmaterialer som pigment, løsningsmidler, og bindemidler går gjennom blandere, kjølere, og filtreringsutstyr for å danne det endelige produktet.
+
+2. **LCA-matrise (Life Cycle Assessment Matrix)**:
+   - En LCA-matrise viser forskjellige innsatser og produkter gjennom de forskjellige stadiene eller prosessene i et systems livssyklus.
+   - Eksempel: For en plastflaske kan en LCA-matrise vise forbruk av ressurser som vann og energi, samt utslipp som CO2 og avfall gjennom ulike livssyklusfaser som produksjon, bruk og gjenbruk/resirkulering.
+
+3. **Prosess-matrise (Process Matrix)**:
+   - En prosess-matrise er ofte en tabell som lister forskjellige prosesser og knytter dem til ulike parametre eller variabler for å analysere og optimalisere disse prosessene.
+   - Eksempel: I en bilfabrikk kan en prosess-matrise inneholde rader for ulike monteringsprosesser (som motorinstallasjon, maling, osv.) og kolonner for målinger som tid, kostnader og kvalitetspoeng.
+
+4. **Teknologi-matrise (Technology Matrix)**:
+   - En teknologi-matrise brukes for å evaluere og sammenligne forskjellige teknologier basert på ulike parametere som ytelse, kostnad, og miljøpåvirkning.
+   - Eksempel: Ved vurdering av ulike energikilder kan en teknologi-matrise vise sammenligninger basert på faktorer som effektivitet, oppstartskostnader, driftskostnader, og CO2-utslipp.
+
+I ditt tilfelle representerer LCA-matrisen de ulike innsatsfaktorene og produktene gjennom forskjellige stadier av produksjonen, som stemmer overens med konseptet bak en Life Cycle Assessment.
+
+1. **Prosessflytskjema (Process Flow Diagram, PFD)**:
+
+   Et prosessflytskjema viser de forskjellige prosessene og hvordan de er koblet sammen. Det er vanligvis et diagram snarere enn en matrise, men jeg kan gi deg en ide om hva det kan inneholde:
+
+   ```
+   Råmaterialer -> [Blanding] -> [Oppvarming] -> [Kjøling] -> Ferdig produkt
+                  |                      |             |
+                  ↓                      ↓             ↓
+                Avfall                Energi         Vann
+   ```
+
+   I dette eksemplet har vi et enkelt flytskjema for en prosess som inkluderer blanding, oppvarming og kjøling. Piler viser retningen av prosessstrømmene.
+
+2. **LCA-matrise (Life Cycle Assessment Matrix)**:
+
+   En LCA-matrise vil se på innsatsfaktorer og utslipp eller produkter på tvers av ulike livssyklusfaser:
+
+   | Livssyklus Fase | Energiforbruk | Vannforbruk | CO2 Utslipp | Avfallsproduksjon |
+   | --------------- | -------------- | ----------- | ----------- | ----------------- |
+   | Råvareutvinning | Høy            | Middels     | Høy         | Middels           |
+   | Produksjon      | Middels        | Høy         | Middels     | Høy               |
+   | Bruk            | Lav            | Lav         | Lav         | Lav               |
+   | Resirkulering   | Lav            | Middels     | Lav         | Lav               |
+
+   Her kan du se forskjellige miljøindikatorer som er vurdert for ulike faser av en produkts livssyklus.
+
+3. **Prosess-matrise (Process Matrix)**:
+
+   En prosess-matrise kan se slik ut, hvor forskjellige prosesser evalueres etter ulike kriterier:
+
+   | Prosess          | Tid (min) | Kostnad ($) | Kvalitetspoeng | Energiforbruk |
+   | -----------------| --------- | ----------- | -------------- | ------------- |
+   | Motorinstallasjon| 90        | 500         | 95             | 200 kWh       |
+   | Maling           | 45        | 300         | 90             | 150 kWh       |
+   | Interiørmontering| 30        | 200         | 85             | 100 kWh       |
+
+   Dette viser hvordan ulike produksjonsprosesser kan vurderes i en bilfabrikk.
+
+4. **Teknologi-matrise (Technology Matrix)**:
+
+   En teknologi-matrise for energikilder kan se ut slik:
+
+   | Teknologi       | Effektivitet | Oppstartskostnader | Driftskostnader | CO2-utslipp |
+   | ----------------| -------------| ------------------ | --------------- | ----------- |
+   | Solenergi       | Høy          | Høy                | Lav             | Ingen       |
+   | Vindkraft       | Middels      | Middels            | Lav             | Ingen       |
+   | Kull            | Lav          | Lav                | Høy             | Høy         |
+   | Naturgass       | Middels      | Middels            | Middels         | Middels     |
+
+   Denne matrisen hjelper til med å sammenligne forskjellige teknologier basert på relevante faktorer.
+
+---
+
 # 12
 
 Den såkalte IPAT-ligningen er en ligning som brukes for å tallfeste miljøpåvirkningen til et system, og ofte i global eller nasjonal skala. Ligningen er gitt som I = P$\cdot$A$\cdot$T.
