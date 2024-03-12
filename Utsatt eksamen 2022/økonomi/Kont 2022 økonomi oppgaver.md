@@ -53,7 +53,7 @@ Svar i millioner kroner.
 
 ## Oppgave 8
 
-Kontantstrømmene for en investering med økonomisk levetid på 5 år er som følger: $k_{0}=$ $10000, k_{1}=k_{2}=k_{3}=k_{4}=3000, k_{5}=k_{1}+1000=4000$. Denne investeringen kan gjentas år 5 , $10, \ldots$ osv.
+Kontantstrømmene for en investering med økonomisk levetid på 5 år er som følger: $k_{0}=$ $-10000, k_{1}=k_{2}=k_{3}=k_{4}=3000, k_{5}=k_{1}+1000=4000$. Denne investeringen kan gjentas år 5 , $10, \ldots$ osv.
 
 Hva er netto nåverdi av den uendelige kontantstrømmen som følger hvis kalkulasjonsrenten er $12 \%$ per år.
 
